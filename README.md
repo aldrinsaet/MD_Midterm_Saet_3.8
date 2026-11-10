@@ -1,7 +1,7 @@
 # Community Learning Center Management System
 
-**Name:** [Your Full Name]
-**Section:** [Your Section]
+**Name:** John Aldrin C. Saet
+**Section:** BSIT 3.8
 **Course:** Mobile Development – Midterm Laboratory Examination
 
 ## Description
